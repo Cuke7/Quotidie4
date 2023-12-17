@@ -54,7 +54,7 @@ const { data: messe }: any = await useFetch(
 
 <style>
 body {
-  background-image: url("./bg.jpg");
+  background-image: url("/bg.jpg");
   background-repeat: repeat;
 }
 </style>
